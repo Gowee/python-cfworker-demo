@@ -1,0 +1,7 @@
+name = "python-worker-demo"
+type = "webpack"
+account_id = "8da6650467498837331a158935ffd8f1"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
